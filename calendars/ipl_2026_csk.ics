@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IPL 2026 Schedule - CSK//ipl-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-PUBLISHED-TTL:P1D
+X-WR-CALDESC:IPL 2026 match schedule (CSK) - auto-updated daily
+X-WR-CALNAME:IPL 2026: CSK
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Rajasthan Royals
+DTSTART;TZID=Asia/Kolkata:20260330T193000
+DTEND;TZID=Asia/Kolkata:20260330T233000
+DTSTAMP:20260402T143827Z
+UID:4ab5eb8f-8a4a-581b-b905-7cf43e24c4f1
+DESCRIPTION:Chennai Super Kings vs Rajasthan Royals\nVenue: Guwahati\, Bar
+ sapara Cricket Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Guwahati\, Barsapara Cricket Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Punjab Kings
+DTSTART;TZID=Asia/Kolkata:20260403T193000
+DTEND;TZID=Asia/Kolkata:20260403T233000
+DTSTAMP:20260402T143827Z
+UID:fd5c91a1-fc23-5e0c-8c70-9278d5a890a4
+DESCRIPTION:Chennai Super Kings vs Punjab Kings\nVenue: Chennai\, MA Chida
+ mbaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Royal Challengers Bengaluru vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260405T193000
+DTEND;TZID=Asia/Kolkata:20260405T233000
+DTSTAMP:20260402T143827Z
+UID:6487a298-58c0-5985-ad7b-0dd67eb424fd
+DESCRIPTION:Royal Challengers Bengaluru vs Chennai Super Kings\nVenue: Ben
+ galuru\, M.Chinnaswamy Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Bengaluru\, M.Chinnaswamy Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Delhi Capitals
+DTSTART;TZID=Asia/Kolkata:20260411T193000
+DTEND;TZID=Asia/Kolkata:20260411T233000
+DTSTAMP:20260402T143827Z
+UID:559f4c52-f68c-5871-b9a3-52f87ed151dd
+DESCRIPTION:Chennai Super Kings vs Delhi Capitals\nVenue: Chennai\, MA Chi
+ dambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Kolkata Knight Riders
+DTSTART;TZID=Asia/Kolkata:20260414T193000
+DTEND;TZID=Asia/Kolkata:20260414T233000
+DTSTAMP:20260402T143827Z
+UID:73be0d3c-ec4d-50cf-9fb7-4e18748f5f75
+DESCRIPTION:Chennai Super Kings vs Kolkata Knight Riders\nVenue: Chennai\,
+  MA Chidambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260418T193000
+DTEND;TZID=Asia/Kolkata:20260418T233000
+DTSTAMP:20260402T143827Z
+UID:04f349b0-ecf3-5a9e-b4a8-021a260024e6
+DESCRIPTION:Sunrisers Hyderabad vs Chennai Super Kings\nVenue: Hyderabad\,
+  Rajiv Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource: cricbu
+ zz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260423T193000
+DTEND;TZID=Asia/Kolkata:20260423T233000
+DTSTAMP:20260402T143827Z
+UID:1bf224ea-f3e5-5137-a41b-3eab688ab72e
+DESCRIPTION:Mumbai Indians vs Chennai Super Kings\nVenue: Mumbai\, Wankhed
+ e Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Mumbai\, Wankhede Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Gujarat Titans vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260426T153000
+DTEND;TZID=Asia/Kolkata:20260426T193000
+DTSTAMP:20260402T143827Z
+UID:54d8e4c8-8520-565f-bae3-16d80ee2791e
+DESCRIPTION:Gujarat Titans vs Chennai Super Kings\nVenue: Ahmedabad\, Nare
+ ndra Modi Stadium\nKickoff: 03:30 PM IST\nSource: cricbuzz
+LOCATION:Ahmedabad\, Narendra Modi Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Mumbai Indians
+DTSTART;TZID=Asia/Kolkata:20260502T193000
+DTEND;TZID=Asia/Kolkata:20260502T233000
+DTSTAMP:20260402T143827Z
+UID:cbac2ce1-9c23-589b-bf9d-8e7ad33a738b
+DESCRIPTION:Chennai Super Kings vs Mumbai Indians\nVenue: Chennai\, MA Chi
+ dambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Delhi Capitals vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260505T193000
+DTEND;TZID=Asia/Kolkata:20260505T233000
+DTSTAMP:20260402T143827Z
+UID:90badab2-0dd3-589e-ba31-4e40d0dd4695
+DESCRIPTION:Delhi Capitals vs Chennai Super Kings\nVenue: Delhi\, Arun Jai
+ tley Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Delhi\, Arun Jaitley Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Lucknow Super Giants
+DTSTART;TZID=Asia/Kolkata:20260510T153000
+DTEND;TZID=Asia/Kolkata:20260510T193000
+DTSTAMP:20260402T143827Z
+UID:707d069c-bc37-52a6-8748-7a83eec2bb74
+DESCRIPTION:Chennai Super Kings vs Lucknow Super Giants\nVenue: Chennai\, 
+ MA Chidambaram Stadium\nKickoff: 03:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Lucknow Super Giants vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260515T193000
+DTEND;TZID=Asia/Kolkata:20260515T233000
+DTSTAMP:20260402T143827Z
+UID:ea2a47a7-8981-527c-a897-f0ceaa408ffe
+DESCRIPTION:Lucknow Super Giants vs Chennai Super Kings\nVenue: Lucknow\, 
+ Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\nKickoff: 07:
+ 30 PM IST\nSource: cricbuzz
+LOCATION:Lucknow\, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket St
+ adium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Sunrisers Hyderabad
+DTSTART;TZID=Asia/Kolkata:20260518T193000
+DTEND;TZID=Asia/Kolkata:20260518T233000
+DTSTAMP:20260402T143827Z
+UID:855fe66a-de7e-5e67-b13f-3fd906551058
+DESCRIPTION:Chennai Super Kings vs Sunrisers Hyderabad\nVenue: Chennai\, M
+ A Chidambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Gujarat Titans
+DTSTART;TZID=Asia/Kolkata:20260521T193000
+DTEND;TZID=Asia/Kolkata:20260521T233000
+DTSTAMP:20260402T143827Z
+UID:f7fcda0b-8da1-5fd4-b54f-08406366ef21
+DESCRIPTION:Chennai Super Kings vs Gujarat Titans\nVenue: Chennai\, MA Chi
+ dambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+name: Update IPL Calendar
+
+on:
+  schedule:
+    # Runs daily at 02:00 UTC = 07:30 AM IST
+    # Good time: after overnight reschedule announcements settle
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r source/requirements.txt
+
+      - name: Generate ICS files
+        env:
+          CRICAPI_KEY: ${{ secrets.CRICAPI_KEY }}
+          # Uncomment and set this if you know the series ID in advance:
+          # SERIES_ID: "your-series-id-here"
+        run: python source/generate_ics.py
+
+      - name: Commit updated calendars
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A calendars/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update IPL calendars [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi

@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IPL 2026 Schedule - SRH//ipl-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-PUBLISHED-TTL:P1D
+X-WR-CALDESC:IPL 2026 match schedule (SRH) - auto-updated daily
+X-WR-CALNAME:IPL 2026: SRH
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260328T193000
+DTEND;TZID=Asia/Kolkata:20260328T233000
+DTSTAMP:20260402T143827Z
+UID:c3880a66-322e-5918-ad8d-2a262a646786
+DESCRIPTION:Sunrisers Hyderabad vs Royal Challengers Bengaluru\nVenue: Ben
+ galuru\, M.Chinnaswamy Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Bengaluru\, M.Chinnaswamy Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Kolkata Knight Riders
+DTSTART;TZID=Asia/Kolkata:20260402T193000
+DTEND;TZID=Asia/Kolkata:20260402T233000
+DTSTAMP:20260402T143827Z
+UID:e9584bde-5fbd-567a-a97e-7c9f2b7cbbd8
+DESCRIPTION:Sunrisers Hyderabad vs Kolkata Knight Riders\nVenue: Kolkata\,
+  Eden Gardens\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Kolkata\, Eden Gardens
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Lucknow Super Giants
+DTSTART;TZID=Asia/Kolkata:20260405T153000
+DTEND;TZID=Asia/Kolkata:20260405T193000
+DTSTAMP:20260402T143827Z
+UID:a284ae07-2c35-5b13-b69c-0d0cc3f63443
+DESCRIPTION:Sunrisers Hyderabad vs Lucknow Super Giants\nVenue: Hyderabad\
+ , Rajiv Gandhi International Stadium\nKickoff: 03:30 PM IST\nSource: cricb
+ uzz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Punjab Kings vs Sunrisers Hyderabad
+DTSTART;TZID=Asia/Kolkata:20260411T153000
+DTEND;TZID=Asia/Kolkata:20260411T193000
+DTSTAMP:20260402T143827Z
+UID:10f13fea-2d2c-5026-b707-525d395b5ad0
+DESCRIPTION:Punjab Kings vs Sunrisers Hyderabad\nVenue: New Chandigarh\, M
+ aharaja Yadavindra Singh International Cricket Stadium\, Mullanpur\nKickof
+ f: 03:30 PM IST\nSource: cricbuzz
+LOCATION:New Chandigarh\, Maharaja Yadavindra Singh International Cricket 
+ Stadium\, Mullanpur
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Rajasthan Royals
+DTSTART;TZID=Asia/Kolkata:20260413T193000
+DTEND;TZID=Asia/Kolkata:20260413T233000
+DTSTAMP:20260402T143827Z
+UID:5bccd37a-6e66-53b5-9345-d53bc6062dca
+DESCRIPTION:Sunrisers Hyderabad vs Rajasthan Royals\nVenue: Hyderabad\, Ra
+ jiv Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260418T193000
+DTEND;TZID=Asia/Kolkata:20260418T233000
+DTSTAMP:20260402T143827Z
+UID:04f349b0-ecf3-5a9e-b4a8-021a260024e6
+DESCRIPTION:Sunrisers Hyderabad vs Chennai Super Kings\nVenue: Hyderabad\,
+  Rajiv Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource: cricbu
+ zz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Delhi Capitals
+DTSTART;TZID=Asia/Kolkata:20260421T193000
+DTEND;TZID=Asia/Kolkata:20260421T233000
+DTSTAMP:20260402T143827Z
+UID:562da47e-1470-5af0-9bbc-5539359ff95f
+DESCRIPTION:Sunrisers Hyderabad vs Delhi Capitals\nVenue: Hyderabad\, Raji
+ v Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Rajasthan Royals vs Sunrisers Hyderabad
+DTSTART;TZID=Asia/Kolkata:20260425T193000
+DTEND;TZID=Asia/Kolkata:20260425T233000
+DTSTAMP:20260402T143827Z
+UID:696ac268-0883-5e40-a127-1c1744ca3bb8
+DESCRIPTION:Rajasthan Royals vs Sunrisers Hyderabad\nVenue: Jaipur\, Sawai
+  Mansingh Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Jaipur\, Sawai Mansingh Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Sunrisers Hyderabad
+DTSTART;TZID=Asia/Kolkata:20260429T193000
+DTEND;TZID=Asia/Kolkata:20260429T233000
+DTSTAMP:20260402T143827Z
+UID:f310e7c3-5993-5304-bb35-a4dd5ded6c7c
+DESCRIPTION:Mumbai Indians vs Sunrisers Hyderabad\nVenue: Mumbai\, Wankhed
+ e Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Mumbai\, Wankhede Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Kolkata Knight Riders
+DTSTART;TZID=Asia/Kolkata:20260503T153000
+DTEND;TZID=Asia/Kolkata:20260503T193000
+DTSTAMP:20260402T143827Z
+UID:ba2e8218-1e04-5e6f-b51e-223e1cb1d4f6
+DESCRIPTION:Sunrisers Hyderabad vs Kolkata Knight Riders\nVenue: Hyderabad
+ \, Rajiv Gandhi International Stadium\nKickoff: 03:30 PM IST\nSource: cric
+ buzz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Punjab Kings
+DTSTART;TZID=Asia/Kolkata:20260506T193000
+DTEND;TZID=Asia/Kolkata:20260506T233000
+DTSTAMP:20260402T143827Z
+UID:5ecabccc-54c3-5b6e-9a54-3ca4524eab54
+DESCRIPTION:Sunrisers Hyderabad vs Punjab Kings\nVenue: Hyderabad\, Rajiv 
+ Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Gujarat Titans vs Sunrisers Hyderabad
+DTSTART;TZID=Asia/Kolkata:20260512T193000
+DTEND;TZID=Asia/Kolkata:20260512T233000
+DTSTAMP:20260402T143827Z
+UID:9d9e387d-f241-56ba-9f30-049b601b370c
+DESCRIPTION:Gujarat Titans vs Sunrisers Hyderabad\nVenue: Ahmedabad\, Nare
+ ndra Modi Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Ahmedabad\, Narendra Modi Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Sunrisers Hyderabad
+DTSTART;TZID=Asia/Kolkata:20260518T193000
+DTEND;TZID=Asia/Kolkata:20260518T233000
+DTSTAMP:20260402T143827Z
+UID:855fe66a-de7e-5e67-b13f-3fd906551058
+DESCRIPTION:Chennai Super Kings vs Sunrisers Hyderabad\nVenue: Chennai\, M
+ A Chidambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Chennai\, MA Chidambaram Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260522T193000
+DTEND;TZID=Asia/Kolkata:20260522T233000
+DTSTAMP:20260402T143827Z
+UID:ab86422a-3cba-5847-a548-979547a5e52d
+DESCRIPTION:Sunrisers Hyderabad vs Royal Challengers Bengaluru\nVenue: Hyd
+ erabad\, Rajiv Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource
+ : cricbuzz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
