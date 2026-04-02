@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IPL 2026 Calendar Quick Add</title>
+  <meta name="description" content="Add the IPL 2026 full or team-specific calendars to Apple Calendar, Outlook, or Google Calendar.">
+  <style>
+    :root {
+      --bg: #f6f2e9;
+      --panel: rgba(255, 255, 255, 0.88);
+      --ink: #0c1520;
+      --muted: #4b5b6a;
+      --line: rgba(12, 21, 32, 0.1);
+      --shadow: 0 24px 60px rgba(12, 21, 32, 0.12);
+      --radius: 22px;
+      --accent: #f05a28;
+      --accent-2: #113f67;
+      --button-ink: #ffffff;
+      --apple: #0c1520;
+      --google: #1a73e8;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Avenir Next", "Trebuchet MS", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(240, 90, 40, 0.22), transparent 34%),
+        radial-gradient(circle at top right, rgba(17, 63, 103, 0.18), transparent 32%),
+        linear-gradient(180deg, #fcfaf5 0%, var(--bg) 100%);
+      min-height: 100vh;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .shell {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 32px 18px 64px;
+    }
+
+    .hero {
+      background: linear-gradient(145deg, rgba(255,255,255,0.95), rgba(255,255,255,0.82));
+      border: 1px solid var(--line);
+      border-radius: 32px;
+      box-shadow: var(--shadow);
+      padding: 28px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto -80px -100px auto;
+      width: 240px;
+      height: 240px;
+      background: radial-gradient(circle, color-mix(in srgb, var(--accent) 40%, transparent), transparent 68%);
+      pointer-events: none;
+    }
+
+    .kicker {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .kicker::before {
+      content: "";
+      width: 34px;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent), var(--accent-2));
+      border-radius: 999px;
+    }
+
+    h1 {
+      margin: 16px 0 12px;
+      font-size: clamp(2rem, 4.2vw, 4.3rem);
+      line-height: 0.96;
+      letter-spacing: -0.04em;
+      max-width: 10ch;
+    }
+
+    .lead {
+      max-width: 60ch;
+      color: var(--muted);
+      font-size: 1.05rem;
+      line-height: 1.6;
+      margin: 0;
+    }
+
+    .quick-grid,
+    .card-grid {
+      display: grid;
+      gap: 18px;
+    }
+
+    .quick-grid {
+      margin-top: 24px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .quick-card,
+    .team-card,
+    .detail-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+    }
+
+    .quick-card {
+      padding: 18px;
+    }
+
+    .quick-card strong {
+      display: block;
+      font-size: 1.05rem;
+      margin-bottom: 6px;
+    }
+
+    .quick-card span {
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.45;
+    }
+
+    .card-grid {
+      margin-top: 30px;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    }
+
+    .team-card {
+      padding: 18px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .team-card::before,
+    .detail-card::before {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 8px;
+      background: linear-gradient(180deg, var(--accent), color-mix(in srgb, var(--accent-2) 78%, white));
+    }
+
+    .badge {
+      display: inline-flex;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: color-mix(in srgb, var(--accent) 12%, white);
+      color: color-mix(in srgb, var(--accent) 80%, black);
+      font-size: 0.78rem;
+      font-weight: 700;
+      margin-bottom: 14px;
+    }
+
+    .team-card h2,
+    .detail-card h2 {
+      margin: 0 0 8px;
+      font-size: 1.3rem;
+      line-height: 1.1;
+    }
+
+    .team-card p,
+    .detail-card p,
+    .detail-meta {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .button {
+      appearance: none;
+      border: 0;
+      border-radius: 999px;
+      padding: 12px 16px;
+      text-decoration: none;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      transition: transform 140ms ease, box-shadow 140ms ease, opacity 140ms ease;
+      box-shadow: 0 12px 24px rgba(12, 21, 32, 0.12);
+    }
+
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    .button.apple {
+      background: var(--apple);
+      color: var(--button-ink);
+    }
+
+    .button.google {
+      background: var(--google);
+      color: var(--button-ink);
+    }
+
+    .button.secondary {
+      background: #ffffff;
+      color: var(--ink);
+      border: 1px solid var(--line);
+      box-shadow: none;
+    }
+
+    .detail-wrap {
+      display: none;
+      margin-top: 30px;
+    }
+
+    .detail-wrap.active {
+      display: block;
+    }
+
+    .detail-card {
+      padding: 24px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .detail-card::after {
+      content: "";
+      position: absolute;
+      top: -60px;
+      right: -60px;
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      background: radial-gradient(circle, color-mix(in srgb, var(--accent) 24%, transparent), transparent 70%);
+      pointer-events: none;
+    }
+
+    .detail-meta {
+      display: grid;
+      gap: 8px;
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px solid var(--line);
+      font-size: 0.95rem;
+    }
+
+    .copy-row {
+      margin-top: 20px;
+      padding: 14px;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.78);
+      border: 1px solid var(--line);
+    }
+
+    .copy-row code {
+      display: block;
+      word-break: break-all;
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-top: 8px;
+    }
+
+    .mini-link {
+      display: inline-flex;
+      margin-top: 18px;
+      color: var(--accent-2);
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .footer-note {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    @media (max-width: 720px) {
+      .hero,
+      .detail-card,
+      .team-card {
+        border-radius: 24px;
+      }
+
+      h1 {
+        max-width: none;
+      }
+
+      .button {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <section class="hero" id="hero">
+      <div class="kicker">Quick Add Calendar</div>
+      <h1 id="hero-title">IPL 2026 calendars for every fan.</h1>
+      <p class="lead" id="hero-copy">
+        Pick the full tournament schedule or jump straight to a team feed. Each quick-add page gives you the right prompt for Apple Calendar, Outlook, or Google Calendar.
+      </p>
+
+      <div class="quick-grid" id="quick-grid">
+        <article class="quick-card">
+          <strong>Apple Calendar and Outlook</strong>
+          <span>Use the `webcal://` button to trigger the browser's calendar subscription handoff.</span>
+        </article>
+        <article class="quick-card">
+          <strong>Google Calendar</strong>
+          <span>Use the Google button to open Google's add-by-URL flow with the right feed prefilled.</span>
+        </article>
+        <article class="quick-card">
+          <strong>Direct Feed URL</strong>
+          <span>Every team page also exposes the raw `.ics` URL so users can paste it anywhere else.</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="card-grid" id="card-grid"></section>
+
+    <section class="detail-wrap" id="detail-wrap">
+      <article class="detail-card" id="detail-card">
+        <div class="badge" id="detail-badge">Calendar Feed</div>
+        <h2 id="detail-title">IPL 2026</h2>
+        <p id="detail-copy"></p>
+        <div class="actions">
+          <a class="button apple" id="apple-link" href="#">Add to Apple / Outlook</a>
+          <a class="button google" id="google-link" href="#">Add to Google Calendar</a>
+          <button class="button secondary" id="copy-button" type="button">Copy direct ICS URL</button>
+        </div>
+        <div class="detail-meta">
+          <div><strong>Feed path:</strong> <span id="detail-path"></span></div>
+          <div><strong>Use this page if:</strong> <span id="detail-use"></span></div>
+        </div>
+        <div class="copy-row">
+          Direct feed URL
+          <code id="feed-code"></code>
+        </div>
+        <a class="mini-link" href="./">Back to all calendars</a>
+      </article>
+    </section>
+
+    <p class="footer-note">
+      If GitHub Pages is enabled for this repository, share links like
+      <code>?calendar=rcb</code> or <code>?calendar=full</code> to open a team-specific quick-add page directly.
+    </p>
+  </main>
+
+  <script>
+    const rawBase = "https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/";
+    const calendars = [
+      {
+        slug: "full",
+        label: "Full IPL Calendar",
+        file: "ipl_2026.ics",
+        badge: "Whole Tournament",
+        blurb: "Every league match and playoff fixture in one subscription feed.",
+        use: "you want the complete IPL 2026 schedule in one place",
+        accent: "#f05a28",
+        accent2: "#113f67"
+      },
+      {
+        slug: "csk",
+        label: "Chennai Super Kings",
+        file: "ipl_2026_csk.ics",
+        badge: "Team Feed",
+        blurb: "Only Chennai Super Kings fixtures.",
+        use: "you only want CSK matches",
+        accent: "#f6c90e",
+        accent2: "#1d4d7f"
+      },
+      {
+        slug: "dc",
+        label: "Delhi Capitals",
+        file: "ipl_2026_dc.ics",
+        badge: "Team Feed",
+        blurb: "Only Delhi Capitals fixtures.",
+        use: "you only want DC matches",
+        accent: "#2563eb",
+        accent2: "#d11f3b"
+      },
+      {
+        slug: "gt",
+        label: "Gujarat Titans",
+        file: "ipl_2026_gt.ics",
+        badge: "Team Feed",
+        blurb: "Only Gujarat Titans fixtures.",
+        use: "you only want GT matches",
+        accent: "#163b65",
+        accent2: "#c4912d"
+      },
+      {
+        slug: "kkr",
+        label: "Kolkata Knight Riders",
+        file: "ipl_2026_kkr.ics",
+        badge: "Team Feed",
+        blurb: "Only Kolkata Knight Riders fixtures.",
+        use: "you only want KKR matches",
+        accent: "#472f7a",
+        accent2: "#d4af37"
+      },
+      {
+        slug: "lsg",
+        label: "Lucknow Super Giants",
+        file: "ipl_2026_lsg.ics",
+        badge: "Team Feed",
+        blurb: "Only Lucknow Super Giants fixtures.",
+        use: "you only want LSG matches",
+        accent: "#40a6d8",
+        accent2: "#f57f20"
+      },
+      {
+        slug: "mi",
+        label: "Mumbai Indians",
+        file: "ipl_2026_mi.ics",
+        badge: "Team Feed",
+        blurb: "Only Mumbai Indians fixtures.",
+        use: "you only want MI matches",
+        accent: "#1953a6",
+        accent2: "#d6a847"
+      },
+      {
+        slug: "pbks",
+        label: "Punjab Kings",
+        file: "ipl_2026_pbks.ics",
+        badge: "Team Feed",
+        blurb: "Only Punjab Kings fixtures.",
+        use: "you only want PBKS matches",
+        accent: "#d71920",
+        accent2: "#7b0f14"
+      },
+      {
+        slug: "rr",
+        label: "Rajasthan Royals",
+        file: "ipl_2026_rr.ics",
+        badge: "Team Feed",
+        blurb: "Only Rajasthan Royals fixtures.",
+        use: "you only want RR matches",
+        accent: "#ec4aa8",
+        accent2: "#1b2d5c"
+      },
+      {
+        slug: "rcb",
+        label: "Royal Challengers Bengaluru",
+        file: "ipl_2026_rcb.ics",
+        badge: "Team Feed",
+        blurb: "Only Royal Challengers Bengaluru fixtures.",
+        use: "you only want RCB matches",
+        accent: "#d71920",
+        accent2: "#151515"
+      },
+      {
+        slug: "srh",
+        label: "Sunrisers Hyderabad",
+        file: "ipl_2026_srh.ics",
+        badge: "Team Feed",
+        blurb: "Only Sunrisers Hyderabad fixtures.",
+        use: "you only want SRH matches",
+        accent: "#f26522",
+        accent2: "#121212"
+      }
+    ];
+
+    function rawUrl(file) {
+      return rawBase + file;
+    }
+
+    function webcalUrl(file) {
+      return "webcal://" + rawUrl(file).replace(/^https:\/\//, "");
+    }
+
+    function googleUrl(file) {
+      return "https://calendar.google.com/calendar/r/settings/addbyurl?url=" + encodeURIComponent(rawUrl(file));
+    }
+
+    function teamPageUrl(slug) {
+      return "./?calendar=" + encodeURIComponent(slug);
+    }
+
+    function setTheme(item) {
+      document.documentElement.style.setProperty("--accent", item.accent);
+      document.documentElement.style.setProperty("--accent-2", item.accent2);
+    }
+
+    function renderCards() {
+      const grid = document.getElementById("card-grid");
+      grid.innerHTML = calendars.map((item) => `
+        <article class="team-card" style="--accent:${item.accent}; --accent-2:${item.accent2};">
+          <div class="badge">${item.badge}</div>
+          <h2>${item.label}</h2>
+          <p>${item.blurb}</p>
+          <div class="actions">
+            <a class="button secondary" href="${teamPageUrl(item.slug)}">Open quick-add page</a>
+          </div>
+        </article>
+      `).join("");
+    }
+
+    function renderDetail(item) {
+      setTheme(item);
+      document.getElementById("detail-wrap").classList.add("active");
+      document.getElementById("card-grid").classList.add("hidden");
+      document.getElementById("hero-title").textContent = item.label;
+      document.getElementById("hero-copy").textContent = "Choose the calendar app you use. Apple Calendar and Outlook usually respond best to the webcal handoff, while Google Calendar uses its own add-by-URL flow.";
+      document.getElementById("detail-badge").textContent = item.badge;
+      document.getElementById("detail-title").textContent = item.label;
+      document.getElementById("detail-copy").textContent = item.blurb;
+      document.getElementById("detail-path").textContent = "calendars/" + item.file;
+      document.getElementById("detail-use").textContent = item.use;
+      document.getElementById("feed-code").textContent = rawUrl(item.file);
+      document.getElementById("apple-link").href = webcalUrl(item.file);
+      document.getElementById("google-link").href = googleUrl(item.file);
+      document.getElementById("copy-button").addEventListener("click", async () => {
+        try {
+          await navigator.clipboard.writeText(rawUrl(item.file));
+          document.getElementById("copy-button").textContent = "Copied";
+          setTimeout(() => {
+            document.getElementById("copy-button").textContent = "Copy direct ICS URL";
+          }, 1800);
+        } catch (_) {
+          window.prompt("Copy this ICS URL", rawUrl(item.file));
+        }
+      });
+    }
+
+    renderCards();
+
+    const params = new URLSearchParams(window.location.search);
+    const selected = params.get("calendar");
+    if (selected) {
+      const match = calendars.find((item) => item.slug === selected.toLowerCase());
+      if (match) {
+        renderDetail(match);
+      }
+    }
+  </script>
+</body>
+</html>

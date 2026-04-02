@@ -2,19 +2,21 @@
 
 Subscribe to the IPL 2026 schedule directly in your calendar. The feeds are updated automatically from GitHub Actions to keep up with fixture changes and reschedules.
 
-## Calendar Links
+## Quick Add Pages
 
-- [Full IPL Calendar](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026.ics)
-- [Chennai Super Kings](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_csk.ics)
-- [Delhi Capitals](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_dc.ics)
-- [Gujarat Titans](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_gt.ics)
-- [Kolkata Knight Riders](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_kkr.ics)
-- [Lucknow Super Giants](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_lsg.ics)
-- [Mumbai Indians](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_mi.ics)
-- [Punjab Kings](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_pbks.ics)
-- [Rajasthan Royals](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_rr.ics)
-- [Royal Challengers Bengaluru](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_rcb.ics)
-- [Sunrisers Hyderabad](https://raw.githubusercontent.com/Ash-git-create/ipl-calendar/main/calendars/ipl_2026_srh.ics)
+- [Full IPL Calendar](https://ash-git-create.github.io/ipl-calendar/?calendar=full)
+- [Chennai Super Kings](https://ash-git-create.github.io/ipl-calendar/?calendar=csk)
+- [Delhi Capitals](https://ash-git-create.github.io/ipl-calendar/?calendar=dc)
+- [Gujarat Titans](https://ash-git-create.github.io/ipl-calendar/?calendar=gt)
+- [Kolkata Knight Riders](https://ash-git-create.github.io/ipl-calendar/?calendar=kkr)
+- [Lucknow Super Giants](https://ash-git-create.github.io/ipl-calendar/?calendar=lsg)
+- [Mumbai Indians](https://ash-git-create.github.io/ipl-calendar/?calendar=mi)
+- [Punjab Kings](https://ash-git-create.github.io/ipl-calendar/?calendar=pbks)
+- [Rajasthan Royals](https://ash-git-create.github.io/ipl-calendar/?calendar=rr)
+- [Royal Challengers Bengaluru](https://ash-git-create.github.io/ipl-calendar/?calendar=rcb)
+- [Sunrisers Hyderabad](https://ash-git-create.github.io/ipl-calendar/?calendar=srh)
+
+Use a quick-add page if you want the browser to offer the best next step for Apple Calendar, Outlook, or Google Calendar.
 
 ## Add To Google Calendar
 
