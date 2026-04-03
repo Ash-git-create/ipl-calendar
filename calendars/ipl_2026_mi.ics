@@ -8,74 +8,14 @@ X-WR-CALDESC:IPL 2026 match schedule (MI) - auto-updated daily
 X-WR-CALNAME:IPL 2026: MI
 X-WR-TIMEZONE:Asia/Kolkata
 BEGIN:VEVENT
-SUMMARY:IPL: Kolkata Knight Riders vs Mumbai Indians
-DTSTART;TZID=Asia/Kolkata:20260329T193000
-DTEND;TZID=Asia/Kolkata:20260329T233000
-DTSTAMP:20260402T143827Z
-UID:4d961047-bc44-5b24-bcf8-a2e74b623adb
-DESCRIPTION:Kolkata Knight Riders vs Mumbai Indians\nVenue: Mumbai\, Wankh
- ede Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Mumbai\, Wankhede Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260404T153000
 DTEND;TZID=Asia/Kolkata:20260404T193000
-DTSTAMP:20260402T143827Z
-UID:b3892ace-5d72-51a8-b18c-46dbc9272abc
-DESCRIPTION:Delhi Capitals vs Mumbai Indians\nVenue: Delhi\, Arun Jaitley 
- Stadium\nKickoff: 03:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Rajasthan Royals vs Mumbai Indians
-DTSTART;TZID=Asia/Kolkata:20260407T193000
-DTEND;TZID=Asia/Kolkata:20260407T233000
-DTSTAMP:20260402T143827Z
-UID:2ecc358d-0c16-56f3-a70d-7db1327761a0
-DESCRIPTION:Rajasthan Royals vs Mumbai Indians\nVenue: Guwahati\, Barsapar
- a Cricket Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Guwahati\, Barsapara Cricket Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Mumbai Indians vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260412T193000
-DTEND;TZID=Asia/Kolkata:20260412T233000
-DTSTAMP:20260402T143827Z
-UID:728d9ace-212b-580b-bd1d-8fda6a3680e8
-DESCRIPTION:Mumbai Indians vs Royal Challengers Bengaluru\nVenue: Mumbai\,
-  Wankhede Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Mumbai\, Wankhede Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Mumbai Indians vs Punjab Kings
-DTSTART;TZID=Asia/Kolkata:20260416T193000
-DTEND;TZID=Asia/Kolkata:20260416T233000
-DTSTAMP:20260402T143827Z
-UID:69c21d57-bbfa-558c-a916-4271f175a62c
-DESCRIPTION:Mumbai Indians vs Punjab Kings\nVenue: Mumbai\, Wankhede Stadi
- um\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Mumbai\, Wankhede Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Gujarat Titans vs Mumbai Indians
-DTSTART;TZID=Asia/Kolkata:20260420T193000
-DTEND;TZID=Asia/Kolkata:20260420T233000
-DTSTAMP:20260402T143827Z
-UID:d02d2de8-7531-5135-81a8-9cad0f5c3d16
-DESCRIPTION:Gujarat Titans vs Mumbai Indians\nVenue: Ahmedabad\, Narendra 
- Modi Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Ahmedabad\, Narendra Modi Stadium
+DTSTAMP:20260403T043126Z
+UID:8ac03e26-1a01-5ffd-90e3-5837f302b2b0
+DESCRIPTION:Delhi Capitals vs Mumbai Indians\nVenue: Arun Jaitley Stadium\
+ , Delhi\nKickoff: 03:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -83,47 +23,11 @@ BEGIN:VEVENT
 SUMMARY:IPL: Mumbai Indians vs Chennai Super Kings
 DTSTART;TZID=Asia/Kolkata:20260423T193000
 DTEND;TZID=Asia/Kolkata:20260423T233000
-DTSTAMP:20260402T143827Z
-UID:1bf224ea-f3e5-5137-a41b-3eab688ab72e
-DESCRIPTION:Mumbai Indians vs Chennai Super Kings\nVenue: Mumbai\, Wankhed
- e Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Mumbai\, Wankhede Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Mumbai Indians vs Sunrisers Hyderabad
-DTSTART;TZID=Asia/Kolkata:20260429T193000
-DTEND;TZID=Asia/Kolkata:20260429T233000
-DTSTAMP:20260402T143827Z
-UID:f310e7c3-5993-5304-bb35-a4dd5ded6c7c
-DESCRIPTION:Mumbai Indians vs Sunrisers Hyderabad\nVenue: Mumbai\, Wankhed
- e Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Mumbai\, Wankhede Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Chennai Super Kings vs Mumbai Indians
-DTSTART;TZID=Asia/Kolkata:20260502T193000
-DTEND;TZID=Asia/Kolkata:20260502T233000
-DTSTAMP:20260402T143827Z
-UID:cbac2ce1-9c23-589b-bf9d-8e7ad33a738b
-DESCRIPTION:Chennai Super Kings vs Mumbai Indians\nVenue: Chennai\, MA Chi
- dambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Chennai\, MA Chidambaram Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Mumbai Indians vs Lucknow Super Giants
-DTSTART;TZID=Asia/Kolkata:20260504T193000
-DTEND;TZID=Asia/Kolkata:20260504T233000
-DTSTAMP:20260402T143827Z
-UID:59e1bf3b-26e7-556d-ad90-e56b0d0444f9
-DESCRIPTION:Mumbai Indians vs Lucknow Super Giants\nVenue: Mumbai\, Wankhe
- de Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Mumbai\, Wankhede Stadium
+DTSTAMP:20260403T043126Z
+UID:fadb1365-7793-5dc6-ab0d-8c7d2079e8a2
+DESCRIPTION:Mumbai Indians vs Chennai Super Kings\nVenue: Wankhede Stadium
+ \, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Wankhede Stadium\, Mumbai
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -131,12 +35,48 @@ BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260510T193000
 DTEND;TZID=Asia/Kolkata:20260510T233000
-DTSTAMP:20260402T143827Z
-UID:ec4aa7f4-1740-5a70-8236-8c75e6b17f5d
-DESCRIPTION:Royal Challengers Bengaluru vs Mumbai Indians\nVenue: Raipur\,
-  Shaheed Veer Narayan Singh International Stadium\nKickoff: 07:30 PM IST\n
- Source: cricbuzz
-LOCATION:Raipur\, Shaheed Veer Narayan Singh International Stadium
+DTSTAMP:20260403T043126Z
+UID:ac5622cf-3860-5bf9-a389-58a9a38cefa9
+DESCRIPTION:Royal Challengers Bengaluru vs Mumbai Indians\nVenue: Shaheed 
+ Veer Narayan Singh International Stadium\, Raipur\nKickoff: 07:30 PM IST\n
+ Source: cricapi
+LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260412T193000
+DTEND;TZID=Asia/Kolkata:20260412T233000
+DTSTAMP:20260403T043126Z
+UID:5a2f5875-3f83-590b-a8da-3a19fa07dfdc
+DESCRIPTION:Mumbai Indians vs Royal Challengers Bengaluru\nVenue: Wankhede
+  Stadium\, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Wankhede Stadium\, Mumbai
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Rajasthan Royals vs Mumbai Indians
+DTSTART;TZID=Asia/Kolkata:20260407T193000
+DTEND;TZID=Asia/Kolkata:20260407T233000
+DTSTAMP:20260403T043126Z
+UID:8431ac7d-d6ba-5284-9aa0-4546956540f5
+DESCRIPTION:Rajasthan Royals vs Mumbai Indians\nVenue: Barsapara Cricket S
+ tadium\, Guwahati\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Barsapara Cricket Stadium\, Guwahati
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Lucknow Super Giants
+DTSTART;TZID=Asia/Kolkata:20260504T193000
+DTEND;TZID=Asia/Kolkata:20260504T233000
+DTSTAMP:20260403T043126Z
+UID:171b0a4a-67dd-555e-8dca-81b0aa91b6d4
+DESCRIPTION:Mumbai Indians vs Lucknow Super Giants\nVenue: Wankhede Stadiu
+ m\, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Wankhede Stadium\, Mumbai
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -144,12 +84,47 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260514T193000
 DTEND;TZID=Asia/Kolkata:20260514T233000
-DTSTAMP:20260402T143827Z
-UID:269bf56f-9764-5030-b216-d852d693acf4
-DESCRIPTION:Punjab Kings vs Mumbai Indians\nVenue: Dharamsala\, Himachal P
- radesh Cricket Association Stadium\nKickoff: 07:30 PM IST\nSource: cricbuz
- z
-LOCATION:Dharamsala\, Himachal Pradesh Cricket Association Stadium
+DTSTAMP:20260403T043126Z
+UID:65201e95-4d43-55af-9f3b-27728d8bfe00
+DESCRIPTION:Punjab Kings vs Mumbai Indians\nVenue: Himachal Pradesh Cricke
+ t Association Stadium\, Dharamsala\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Sunrisers Hyderabad
+DTSTART;TZID=Asia/Kolkata:20260429T193000
+DTEND;TZID=Asia/Kolkata:20260429T233000
+DTSTAMP:20260403T043126Z
+UID:559251cc-f3e6-56b4-b858-4c5cc426f2dd
+DESCRIPTION:Mumbai Indians vs Sunrisers Hyderabad\nVenue: Wankhede Stadium
+ \, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Wankhede Stadium\, Mumbai
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Gujarat Titans vs Mumbai Indians
+DTSTART;TZID=Asia/Kolkata:20260420T193000
+DTEND;TZID=Asia/Kolkata:20260420T233000
+DTSTAMP:20260403T043126Z
+UID:016a3cbd-1c09-5f9f-87bb-e297eadedc24
+DESCRIPTION:Gujarat Titans vs Mumbai Indians\nVenue: Narendra Modi Stadium
+ \, Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Narendra Modi Stadium\, Ahmedabad
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Kolkata Knight Riders
+DTSTART;TZID=Asia/Kolkata:20260329T193000
+DTEND;TZID=Asia/Kolkata:20260329T233000
+DTSTAMP:20260403T043126Z
+UID:17037556-44d7-5361-9997-0a25779eb799
+DESCRIPTION:Mumbai Indians vs Kolkata Knight Riders\nVenue: Wankhede Stadi
+ um\, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Wankhede Stadium\, Mumbai
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -157,11 +132,11 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260520T193000
 DTEND;TZID=Asia/Kolkata:20260520T233000
-DTSTAMP:20260402T143827Z
-UID:5b082e7f-62b0-5aeb-bcd2-5cd7ef2531a6
-DESCRIPTION:Kolkata Knight Riders vs Mumbai Indians\nVenue: Kolkata\, Eden
-  Gardens\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Kolkata\, Eden Gardens
+DTSTAMP:20260403T043126Z
+UID:148fb2d5-12c8-5e73-8baa-b97ae943549e
+DESCRIPTION:Kolkata Knight Riders vs Mumbai Indians\nVenue: Eden Gardens\,
+  Kolkata\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Eden Gardens\, Kolkata
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -169,11 +144,35 @@ BEGIN:VEVENT
 SUMMARY:IPL: Mumbai Indians vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260524T153000
 DTEND;TZID=Asia/Kolkata:20260524T193000
-DTSTAMP:20260402T143827Z
-UID:a8b3948b-cf77-51cb-ab6b-0fb452d13ad1
-DESCRIPTION:Mumbai Indians vs Rajasthan Royals\nVenue: Mumbai\, Wankhede S
- tadium\nKickoff: 03:30 PM IST\nSource: cricbuzz
-LOCATION:Mumbai\, Wankhede Stadium
+DTSTAMP:20260403T043126Z
+UID:cc807eed-fd3f-5ab8-a607-21e7b6fd9e39
+DESCRIPTION:Mumbai Indians vs Rajasthan Royals\nVenue: Wankhede Stadium\, 
+ Mumbai\nKickoff: 03:30 PM IST\nSource: cricapi
+LOCATION:Wankhede Stadium\, Mumbai
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Punjab Kings
+DTSTART;TZID=Asia/Kolkata:20260416T193000
+DTEND;TZID=Asia/Kolkata:20260416T233000
+DTSTAMP:20260403T043126Z
+UID:bf6d8055-26f6-564e-82f6-c7a2df2f7848
+DESCRIPTION:Mumbai Indians vs Punjab Kings\nVenue: Wankhede Stadium\, Mumb
+ ai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Wankhede Stadium\, Mumbai
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Mumbai Indians
+DTSTART;TZID=Asia/Kolkata:20260502T193000
+DTEND;TZID=Asia/Kolkata:20260502T233000
+DTSTAMP:20260403T043126Z
+UID:93e8e0ae-1fe2-5b3f-9bbb-d7a6df85e7c8
+DESCRIPTION:Chennai Super Kings vs Mumbai Indians\nVenue: MA Chidambaram S
+ tadium\, Chennai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:MA Chidambaram Stadium\, Chennai
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

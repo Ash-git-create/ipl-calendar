@@ -8,16 +8,14 @@ X-WR-CALDESC:IPL 2026 match schedule (DC) - auto-updated daily
 X-WR-CALNAME:IPL 2026: DC
 X-WR-TIMEZONE:Asia/Kolkata
 BEGIN:VEVENT
-SUMMARY:IPL: Lucknow Super Giants vs Delhi Capitals
-DTSTART;TZID=Asia/Kolkata:20260401T193000
-DTEND;TZID=Asia/Kolkata:20260401T233000
-DTSTAMP:20260402T143827Z
-UID:e4b17635-075c-5242-8574-b72e3369ef4a
-DESCRIPTION:Lucknow Super Giants vs Delhi Capitals\nVenue: Lucknow\, Bhara
- t Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\nKickoff: 07:30 PM
-  IST\nSource: cricbuzz
-LOCATION:Lucknow\, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket St
- adium
+SUMMARY:IPL: Sunrisers Hyderabad vs Delhi Capitals
+DTSTART;TZID=Asia/Kolkata:20260421T193000
+DTEND;TZID=Asia/Kolkata:20260421T233000
+DTSTAMP:20260403T043126Z
+UID:dd357d5a-f700-511f-8619-c733da8fc08e
+DESCRIPTION:Sunrisers Hyderabad vs Delhi Capitals\nVenue: Rajiv Gandhi Int
+ ernational Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Rajiv Gandhi International Stadium\, Hyderabad
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -25,83 +23,11 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260404T153000
 DTEND;TZID=Asia/Kolkata:20260404T193000
-DTSTAMP:20260402T143827Z
-UID:b3892ace-5d72-51a8-b18c-46dbc9272abc
-DESCRIPTION:Delhi Capitals vs Mumbai Indians\nVenue: Delhi\, Arun Jaitley 
- Stadium\nKickoff: 03:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Delhi Capitals vs Gujarat Titans
-DTSTART;TZID=Asia/Kolkata:20260408T193000
-DTEND;TZID=Asia/Kolkata:20260408T233000
-DTSTAMP:20260402T143827Z
-UID:8a47fba0-8197-56ae-aed0-e3d06fc2b930
-DESCRIPTION:Delhi Capitals vs Gujarat Titans\nVenue: Delhi\, Arun Jaitley 
- Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Chennai Super Kings vs Delhi Capitals
-DTSTART;TZID=Asia/Kolkata:20260411T193000
-DTEND;TZID=Asia/Kolkata:20260411T233000
-DTSTAMP:20260402T143827Z
-UID:559f4c52-f68c-5871-b9a3-52f87ed151dd
-DESCRIPTION:Chennai Super Kings vs Delhi Capitals\nVenue: Chennai\, MA Chi
- dambaram Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Chennai\, MA Chidambaram Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Royal Challengers Bengaluru vs Delhi Capitals
-DTSTART;TZID=Asia/Kolkata:20260418T153000
-DTEND;TZID=Asia/Kolkata:20260418T193000
-DTSTAMP:20260402T143827Z
-UID:85151db7-acec-5e79-969c-4ae23858b57d
-DESCRIPTION:Royal Challengers Bengaluru vs Delhi Capitals\nVenue: Bengalur
- u\, M.Chinnaswamy Stadium\nKickoff: 03:30 PM IST\nSource: cricbuzz
-LOCATION:Bengaluru\, M.Chinnaswamy Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Sunrisers Hyderabad vs Delhi Capitals
-DTSTART;TZID=Asia/Kolkata:20260421T193000
-DTEND;TZID=Asia/Kolkata:20260421T233000
-DTSTAMP:20260402T143827Z
-UID:562da47e-1470-5af0-9bbc-5539359ff95f
-DESCRIPTION:Sunrisers Hyderabad vs Delhi Capitals\nVenue: Hyderabad\, Raji
- v Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Delhi Capitals vs Punjab Kings
-DTSTART;TZID=Asia/Kolkata:20260425T153000
-DTEND;TZID=Asia/Kolkata:20260425T193000
-DTSTAMP:20260402T143827Z
-UID:14cfe204-67a8-52a4-bb36-fc73bda217d6
-DESCRIPTION:Delhi Capitals vs Punjab Kings\nVenue: Delhi\, Arun Jaitley St
- adium\nKickoff: 03:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Delhi Capitals vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260427T193000
-DTEND;TZID=Asia/Kolkata:20260427T233000
-DTSTAMP:20260402T143827Z
-UID:c03110c3-85e6-5bd7-addc-2be81f66fafe
-DESCRIPTION:Delhi Capitals vs Royal Challengers Bengaluru\nVenue: Delhi\, 
- Arun Jaitley Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
+DTSTAMP:20260403T043126Z
+UID:8ac03e26-1a01-5ffd-90e3-5837f302b2b0
+DESCRIPTION:Delhi Capitals vs Mumbai Indians\nVenue: Arun Jaitley Stadium\
+ , Delhi\nKickoff: 03:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -109,48 +35,49 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260501T193000
 DTEND;TZID=Asia/Kolkata:20260501T233000
-DTSTAMP:20260402T143827Z
-UID:81236b3b-723a-52bc-b8f0-796d4b244dad
-DESCRIPTION:Rajasthan Royals vs Delhi Capitals\nVenue: Jaipur\, Sawai Mans
- ingh Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Jaipur\, Sawai Mansingh Stadium
+DTSTAMP:20260403T043126Z
+UID:16501f9a-8ee2-510e-a1f1-f76cb498fd6d
+DESCRIPTION:Rajasthan Royals vs Delhi Capitals\nVenue: Sawai Mansingh Stad
+ ium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Sawai Mansingh Stadium\, Jaipur
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IPL: Delhi Capitals vs Chennai Super Kings
-DTSTART;TZID=Asia/Kolkata:20260505T193000
-DTEND;TZID=Asia/Kolkata:20260505T233000
-DTSTAMP:20260402T143827Z
-UID:90badab2-0dd3-589e-ba31-4e40d0dd4695
-DESCRIPTION:Delhi Capitals vs Chennai Super Kings\nVenue: Delhi\, Arun Jai
- tley Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
+SUMMARY:IPL: Delhi Capitals vs Punjab Kings
+DTSTART;TZID=Asia/Kolkata:20260425T153000
+DTEND;TZID=Asia/Kolkata:20260425T193000
+DTSTAMP:20260403T043126Z
+UID:00c02a60-bc5e-5ebe-a6e4-4af70a138dbf
+DESCRIPTION:Delhi Capitals vs Punjab Kings\nVenue: Arun Jaitley Stadium\, 
+ Delhi\nKickoff: 03:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IPL: Delhi Capitals vs Kolkata Knight Riders
-DTSTART;TZID=Asia/Kolkata:20260508T193000
-DTEND;TZID=Asia/Kolkata:20260508T233000
-DTSTAMP:20260402T143827Z
-UID:5c3710dc-90f6-5453-b577-107f38eec4fe
-DESCRIPTION:Delhi Capitals vs Kolkata Knight Riders\nVenue: Delhi\, Arun J
- aitley Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
+SUMMARY:IPL: Royal Challengers Bengaluru vs Delhi Capitals
+DTSTART;TZID=Asia/Kolkata:20260418T153000
+DTEND;TZID=Asia/Kolkata:20260418T193000
+DTSTAMP:20260403T043126Z
+UID:1f93c963-4bd0-5057-bd9e-1bcb4934e0aa
+DESCRIPTION:Royal Challengers Bengaluru vs Delhi Capitals\nVenue: M.Chinna
+ swamy Stadium\, Bengaluru\nKickoff: 03:30 PM IST\nSource: cricapi
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IPL: Punjab Kings vs Delhi Capitals
-DTSTART;TZID=Asia/Kolkata:20260511T193000
-DTEND;TZID=Asia/Kolkata:20260511T233000
-DTSTAMP:20260402T143827Z
-UID:51a0021e-4e56-559c-9575-cba741f389fa
-DESCRIPTION:Punjab Kings vs Delhi Capitals\nVenue: Dharamsala\, Himachal P
- radesh Cricket Association Stadium\nKickoff: 07:30 PM IST\nSource: cricbuz
- z
-LOCATION:Dharamsala\, Himachal Pradesh Cricket Association Stadium
+SUMMARY:IPL: Lucknow Super Giants vs Delhi Capitals
+DTSTART;TZID=Asia/Kolkata:20260401T193000
+DTEND;TZID=Asia/Kolkata:20260401T233000
+DTSTAMP:20260403T043126Z
+UID:f0e7dddf-14d5-50a8-984f-99ff2518593c
+DESCRIPTION:Lucknow Super Giants vs Delhi Capitals\nVenue: Bharat Ratna Sh
+ ri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 07:30 PM
+  IST\nSource: cricapi
+LOCATION:Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lu
+ cknow
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -158,11 +85,23 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260517T193000
 DTEND;TZID=Asia/Kolkata:20260517T233000
-DTSTAMP:20260402T143827Z
-UID:4120b02e-db39-5674-a6fc-64f082dc1b74
-DESCRIPTION:Delhi Capitals vs Rajasthan Royals\nVenue: Delhi\, Arun Jaitle
- y Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Delhi\, Arun Jaitley Stadium
+DTSTAMP:20260403T043126Z
+UID:99a6485b-7161-543b-911e-0c178c791588
+DESCRIPTION:Delhi Capitals vs Rajasthan Royals\nVenue: Arun Jaitley Stadiu
+ m\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Chennai Super Kings vs Delhi Capitals
+DTSTART;TZID=Asia/Kolkata:20260411T193000
+DTEND;TZID=Asia/Kolkata:20260411T233000
+DTSTAMP:20260403T043126Z
+UID:84aeffd3-c907-59ce-aaaa-2cf2529b0d12
+DESCRIPTION:Chennai Super Kings vs Delhi Capitals\nVenue: MA Chidambaram S
+ tadium\, Chennai\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:MA Chidambaram Stadium\, Chennai
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -170,11 +109,71 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260524T193000
 DTEND;TZID=Asia/Kolkata:20260524T233000
-DTSTAMP:20260402T143827Z
-UID:2d845380-e174-5bf9-8942-e880703ecbaf
-DESCRIPTION:Kolkata Knight Riders vs Delhi Capitals\nVenue: Kolkata\, Eden
-  Gardens\nKickoff: 07:30 PM IST\nSource: cricbuzz
-LOCATION:Kolkata\, Eden Gardens
+DTSTAMP:20260403T043126Z
+UID:b08a71f9-dbeb-5e5f-83f3-bc9e252023fa
+DESCRIPTION:Kolkata Knight Riders vs Delhi Capitals\nVenue: Eden Gardens\,
+  Kolkata\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Eden Gardens\, Kolkata
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Delhi Capitals vs Chennai Super Kings
+DTSTART;TZID=Asia/Kolkata:20260505T193000
+DTEND;TZID=Asia/Kolkata:20260505T233000
+DTSTAMP:20260403T043126Z
+UID:e7e2828b-61f1-5e8a-8940-7e5d035b90a5
+DESCRIPTION:Delhi Capitals vs Chennai Super Kings\nVenue: Arun Jaitley Sta
+ dium\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Punjab Kings vs Delhi Capitals
+DTSTART;TZID=Asia/Kolkata:20260511T193000
+DTEND;TZID=Asia/Kolkata:20260511T233000
+DTSTAMP:20260403T043126Z
+UID:e81ba090-7e53-5276-a907-61074d2b58c4
+DESCRIPTION:Punjab Kings vs Delhi Capitals\nVenue: Himachal Pradesh Cricke
+ t Association Stadium\, Dharamsala\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Delhi Capitals vs Kolkata Knight Riders
+DTSTART;TZID=Asia/Kolkata:20260508T193000
+DTEND;TZID=Asia/Kolkata:20260508T233000
+DTSTAMP:20260403T043126Z
+UID:e3961889-acd6-5da0-bc96-7d21d2641e10
+DESCRIPTION:Delhi Capitals vs Kolkata Knight Riders\nVenue: Arun Jaitley S
+ tadium\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Delhi Capitals vs Gujarat Titans
+DTSTART;TZID=Asia/Kolkata:20260408T193000
+DTEND;TZID=Asia/Kolkata:20260408T233000
+DTSTAMP:20260403T043126Z
+UID:f53f9e42-b8d1-53ef-a0f8-96859a2e4c30
+DESCRIPTION:Delhi Capitals vs Gujarat Titans\nVenue: Arun Jaitley Stadium\
+ , Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Delhi Capitals vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260427T193000
+DTEND;TZID=Asia/Kolkata:20260427T233000
+DTSTAMP:20260403T043126Z
+UID:60a5f678-2022-559a-bf01-ae7dba1e58e9
+DESCRIPTION:Delhi Capitals vs Royal Challengers Bengaluru\nVenue: Arun Jai
+ tley Stadium\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
+LOCATION:Arun Jaitley Stadium\, Delhi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
