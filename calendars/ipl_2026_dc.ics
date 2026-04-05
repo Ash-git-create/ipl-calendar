@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260421T193000
 DTEND;TZID=Asia/Kolkata:20260421T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:dd357d5a-f700-511f-8619-c733da8fc08e
 DESCRIPTION:Sunrisers Hyderabad vs Delhi Capitals\nVenue: Rajiv Gandhi Int
  ernational Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260404T153000
 DTEND;TZID=Asia/Kolkata:20260404T193000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:8ac03e26-1a01-5ffd-90e3-5837f302b2b0
 DESCRIPTION:Delhi Capitals vs Mumbai Indians\nVenue: Arun Jaitley Stadium\
  , Delhi\nKickoff: 03:30 PM IST\nSource: cricapi
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260501T193000
 DTEND;TZID=Asia/Kolkata:20260501T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:16501f9a-8ee2-510e-a1f1-f76cb498fd6d
 DESCRIPTION:Rajasthan Royals vs Delhi Capitals\nVenue: Sawai Mansingh Stad
  ium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260425T153000
 DTEND;TZID=Asia/Kolkata:20260425T193000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:00c02a60-bc5e-5ebe-a6e4-4af70a138dbf
 DESCRIPTION:Delhi Capitals vs Punjab Kings\nVenue: Arun Jaitley Stadium\, 
  Delhi\nKickoff: 03:30 PM IST\nSource: cricapi
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260418T153000
 DTEND;TZID=Asia/Kolkata:20260418T193000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:1f93c963-4bd0-5057-bd9e-1bcb4934e0aa
 DESCRIPTION:Royal Challengers Bengaluru vs Delhi Capitals\nVenue: M.Chinna
  swamy Stadium\, Bengaluru\nKickoff: 03:30 PM IST\nSource: cricapi
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260401T193000
 DTEND;TZID=Asia/Kolkata:20260401T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:f0e7dddf-14d5-50a8-984f-99ff2518593c
 DESCRIPTION:Lucknow Super Giants vs Delhi Capitals\nVenue: Bharat Ratna Sh
  ri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 07:30 PM
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260517T193000
 DTEND;TZID=Asia/Kolkata:20260517T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:99a6485b-7161-543b-911e-0c178c791588
 DESCRIPTION:Delhi Capitals vs Rajasthan Royals\nVenue: Arun Jaitley Stadiu
  m\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Chennai Super Kings vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260411T193000
 DTEND;TZID=Asia/Kolkata:20260411T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:84aeffd3-c907-59ce-aaaa-2cf2529b0d12
 DESCRIPTION:Chennai Super Kings vs Delhi Capitals\nVenue: MA Chidambaram S
  tadium\, Chennai\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260524T193000
 DTEND;TZID=Asia/Kolkata:20260524T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:b08a71f9-dbeb-5e5f-83f3-bc9e252023fa
 DESCRIPTION:Kolkata Knight Riders vs Delhi Capitals\nVenue: Eden Gardens\,
   Kolkata\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Chennai Super Kings
 DTSTART;TZID=Asia/Kolkata:20260505T193000
 DTEND;TZID=Asia/Kolkata:20260505T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:e7e2828b-61f1-5e8a-8940-7e5d035b90a5
 DESCRIPTION:Delhi Capitals vs Chennai Super Kings\nVenue: Arun Jaitley Sta
  dium\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260511T193000
 DTEND;TZID=Asia/Kolkata:20260511T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:e81ba090-7e53-5276-a907-61074d2b58c4
 DESCRIPTION:Punjab Kings vs Delhi Capitals\nVenue: Himachal Pradesh Cricke
  t Association Stadium\, Dharamsala\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Kolkata Knight Riders
 DTSTART;TZID=Asia/Kolkata:20260508T193000
 DTEND;TZID=Asia/Kolkata:20260508T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:e3961889-acd6-5da0-bc96-7d21d2641e10
 DESCRIPTION:Delhi Capitals vs Kolkata Knight Riders\nVenue: Arun Jaitley S
  tadium\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260408T193000
 DTEND;TZID=Asia/Kolkata:20260408T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:f53f9e42-b8d1-53ef-a0f8-96859a2e4c30
 DESCRIPTION:Delhi Capitals vs Gujarat Titans\nVenue: Arun Jaitley Stadium\
  , Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Royal Challengers Bengaluru
 DTSTART;TZID=Asia/Kolkata:20260427T193000
 DTEND;TZID=Asia/Kolkata:20260427T233000
-DTSTAMP:20260404T041949Z
+DTSTAMP:20260405T043821Z
 UID:60a5f678-2022-559a-bf01-ae7dba1e58e9
 DESCRIPTION:Delhi Capitals vs Royal Challengers Bengaluru\nVenue: Arun Jai
  tley Stadium\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
