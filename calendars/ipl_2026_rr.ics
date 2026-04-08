@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260413T193000
 DTEND;TZID=Asia/Kolkata:20260413T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:6226cbcf-0eab-50fd-a21c-c5b7653fadf3
 DESCRIPTION:Sunrisers Hyderabad vs Rajasthan Royals\nVenue: Rajiv Gandhi I
  nternational Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Royal Challengers Bengaluru
 DTSTART;TZID=Asia/Kolkata:20260410T193000
 DTEND;TZID=Asia/Kolkata:20260410T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:b7c3f225-3243-5013-8d27-2d1fa16acb4a
 DESCRIPTION:Rajasthan Royals vs Royal Challengers Bengaluru\nVenue: Barsap
  ara Cricket Stadium\, Guwahati\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260428T193000
 DTEND;TZID=Asia/Kolkata:20260428T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:31cee58a-a4bb-50de-a26d-46a7ce26728c
 DESCRIPTION:Punjab Kings vs Rajasthan Royals\nVenue: Maharaja Yadavindra S
  ingh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKickoff: 
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260519T193000
 DTEND;TZID=Asia/Kolkata:20260519T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:6ab84c99-b253-57da-8ea7-3b4a30d586c5
 DESCRIPTION:Rajasthan Royals vs Lucknow Super Giants\nVenue: Sawai Mansing
  h Stadium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260517T193000
 DTEND;TZID=Asia/Kolkata:20260517T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:af714377-01b5-514b-843d-256cf8dd4dee
 DESCRIPTION:Delhi Capitals vs Rajasthan Royals\nVenue: Arun Jaitley Stadiu
  m\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260425T193000
 DTEND;TZID=Asia/Kolkata:20260425T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:124be2da-3fca-5380-8b35-bc2d4d9b8f0e
 DESCRIPTION:Rajasthan Royals vs Sunrisers Hyderabad\nVenue: Sawai Mansingh
   Stadium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Mumbai Indians vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260524T153000
 DTEND;TZID=Asia/Kolkata:20260524T193000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:05d68d5f-9ed5-503c-be4f-4a1f42ac73fb
 DESCRIPTION:Mumbai Indians vs Rajasthan Royals\nVenue: Wankhede Stadium\, 
  Mumbai\nKickoff: 03:30 PM IST\nSource: cricapi
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260404T053000
 DTEND;TZID=Asia/Kolkata:20260404T093000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:4c5e85e6-9790-5704-9ef0-2ace5246452a
 DESCRIPTION:Gujarat Titans vs Rajasthan Royals\nVenue: Narendra Modi Stadi
  um\, Ahmedabad\nKickoff: 05:30 AM IST\nSource: cricapi
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260422T193000
 DTEND;TZID=Asia/Kolkata:20260422T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:28d1dfee-988e-5499-8d13-97b0cb55fa75
 DESCRIPTION:Lucknow Super Giants vs Rajasthan Royals\nVenue: Bharat Ratna 
  Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 07:30 
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260509T193000
 DTEND;TZID=Asia/Kolkata:20260509T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:a9133faf-d696-5446-bcce-e1e47a75e281
 DESCRIPTION:Rajasthan Royals vs Gujarat Titans\nVenue: Sawai Mansingh Stad
  ium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260501T193000
 DTEND;TZID=Asia/Kolkata:20260501T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:767f2cf8-c921-5d61-9b4b-b1ae39071c96
 DESCRIPTION:Rajasthan Royals vs Delhi Capitals\nVenue: Sawai Mansingh Stad
  ium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260419T153000
 DTEND;TZID=Asia/Kolkata:20260419T193000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:cb54769c-3e4b-50fa-b0cc-86a8e707c879
 DESCRIPTION:Kolkata Knight Riders vs Rajasthan Royals\nVenue: Eden Gardens
  \, Kolkata\nKickoff: 03:30 PM IST\nSource: cricapi
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260407T193000
 DTEND;TZID=Asia/Kolkata:20260407T233000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:a89b22dd-33d5-517f-aa29-02f12b9c72b0
 DESCRIPTION:Rajasthan Royals vs Mumbai Indians\nVenue: Barsapara Cricket S
  tadium\, Guwahati\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Chennai Super Kings
 DTSTART;TZID=Asia/Kolkata:20260330T053000
 DTEND;TZID=Asia/Kolkata:20260330T093000
-DTSTAMP:20260407T043427Z
+DTSTAMP:20260408T043809Z
 UID:19a20076-4e35-5c14-81b9-387431cf3b46
 DESCRIPTION:Rajasthan Royals vs Chennai Super Kings\nVenue: Barsapara Cric
  ket Stadium\, Guwahati\nKickoff: 05:30 AM IST\nSource: cricapi
