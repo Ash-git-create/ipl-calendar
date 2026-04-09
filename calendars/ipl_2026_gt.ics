@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Kolkata Knight Riders
 DTSTART;TZID=Asia/Kolkata:20260417T193000
 DTEND;TZID=Asia/Kolkata:20260417T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:43a592ac-761d-5786-85a6-970acc9cd02d
 DESCRIPTION:Gujarat Titans vs Kolkata Knight Riders\nVenue: Narendra Modi 
  Stadium\, Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260412T153000
 DTEND;TZID=Asia/Kolkata:20260412T193000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:f203d36d-5088-5ff2-a38d-56be9cefaf63
 DESCRIPTION:Lucknow Super Giants vs Gujarat Titans\nVenue: Bharat Ratna Sh
  ri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 03:30 PM
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260420T193000
 DTEND;TZID=Asia/Kolkata:20260420T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:6baab139-0e3f-5896-89cc-7437187b7f42
 DESCRIPTION:Gujarat Titans vs Mumbai Indians\nVenue: Narendra Modi Stadium
  \, Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Royal Challengers Bengaluru
 DTSTART;TZID=Asia/Kolkata:20260430T193000
 DTEND;TZID=Asia/Kolkata:20260430T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:bfb3161c-ff31-567e-986d-6c069881bfc2
 DESCRIPTION:Gujarat Titans vs Royal Challengers Bengaluru\nVenue: Narendra
   Modi Stadium\, Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260424T193000
 DTEND;TZID=Asia/Kolkata:20260424T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:6d755059-efdd-547e-a3dd-70298329e954
 DESCRIPTION:Royal Challengers Bengaluru vs Gujarat Titans\nVenue: M.Chinna
  swamy Stadium\, Bengaluru\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Chennai Super Kings vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260521T193000
 DTEND;TZID=Asia/Kolkata:20260521T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:83269581-e176-5783-b75c-c48c1796acb5
 DESCRIPTION:Chennai Super Kings vs Gujarat Titans\nVenue: MA Chidambaram S
  tadium\, Chennai\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260516T193000
 DTEND;TZID=Asia/Kolkata:20260516T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:42eeec1a-9a0b-5456-89d0-102f78d988dc
 DESCRIPTION:Kolkata Knight Riders vs Gujarat Titans\nVenue: Eden Gardens\,
   Kolkata\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260404T053000
 DTEND;TZID=Asia/Kolkata:20260404T093000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:4c5e85e6-9790-5704-9ef0-2ace5246452a
 DESCRIPTION:Gujarat Titans vs Rajasthan Royals\nVenue: Narendra Modi Stadi
  um\, Ahmedabad\nKickoff: 05:30 AM IST\nSource: cricapi
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260503T193000
 DTEND;TZID=Asia/Kolkata:20260503T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:9224a497-d66e-5fdd-b977-10d43e609183
 DESCRIPTION:Gujarat Titans vs Punjab Kings\nVenue: Narendra Modi Stadium\,
   Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260512T193000
 DTEND;TZID=Asia/Kolkata:20260512T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:a8b9eb15-2f54-513b-a108-c0a9363b7cfa
 DESCRIPTION:Gujarat Titans vs Sunrisers Hyderabad\nVenue: Narendra Modi St
  adium\, Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260509T193000
 DTEND;TZID=Asia/Kolkata:20260509T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:a9133faf-d696-5446-bcce-e1e47a75e281
 DESCRIPTION:Rajasthan Royals vs Gujarat Titans\nVenue: Sawai Mansingh Stad
  ium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260408T193000
 DTEND;TZID=Asia/Kolkata:20260408T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:c7161df9-9631-5e39-ad91-c9d08d4bb2ae
 DESCRIPTION:Delhi Capitals vs Gujarat Titans\nVenue: Arun Jaitley Stadium\
  , Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260331T053000
 DTEND;TZID=Asia/Kolkata:20260331T093000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:b5731716-aa53-5e4c-b2cd-3c29fb40c4ec
 DESCRIPTION:Punjab Kings vs Gujarat Titans\nVenue: Maharaja Yadavindra Sin
  gh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKickoff: 05
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Chennai Super Kings
 DTSTART;TZID=Asia/Kolkata:20260426T153000
 DTEND;TZID=Asia/Kolkata:20260426T193000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:9799dae1-64f7-5a0c-9392-dd25ec5e740f
 DESCRIPTION:Gujarat Titans vs Chennai Super Kings\nVenue: Narendra Modi St
  adium\, Ahmedabad\nKickoff: 03:30 PM IST\nSource: cricapi

@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260412T153000
 DTEND;TZID=Asia/Kolkata:20260412T193000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:f203d36d-5088-5ff2-a38d-56be9cefaf63
 DESCRIPTION:Lucknow Super Giants vs Gujarat Titans\nVenue: Bharat Ratna Sh
  ri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 03:30 PM
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260405T053000
 DTEND;TZID=Asia/Kolkata:20260405T093000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:b0f3a4db-c670-5e0a-8242-7c10747886e7
 DESCRIPTION:Sunrisers Hyderabad vs Lucknow Super Giants\nVenue: Rajiv Gand
  hi International Stadium\, Hyderabad\nKickoff: 05:30 AM IST\nSource: crica
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Chennai Super Kings
 DTSTART;TZID=Asia/Kolkata:20260515T193000
 DTEND;TZID=Asia/Kolkata:20260515T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:8d873406-2d0f-587d-96c2-a10eb1643427
 DESCRIPTION:Lucknow Super Giants vs Chennai Super Kings\nVenue: Bharat Rat
  na Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 07:
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260401T053000
 DTEND;TZID=Asia/Kolkata:20260401T093000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:80f83538-d417-564a-9117-5d2429304fb0
 DESCRIPTION:Lucknow Super Giants vs Delhi Capitals\nVenue: Bharat Ratna Sh
  ri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 05:30 AM
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260415T193000
 DTEND;TZID=Asia/Kolkata:20260415T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:10467c16-111d-5a41-be8e-b9e57438d510
 DESCRIPTION:Royal Challengers Bengaluru vs Lucknow Super Giants\nVenue: M.
  Chinnaswamy Stadium\, Bengaluru\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Chennai Super Kings vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260510T153000
 DTEND;TZID=Asia/Kolkata:20260510T193000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:f346e2dc-9274-5fb5-9216-21453cd5066e
 DESCRIPTION:Chennai Super Kings vs Lucknow Super Giants\nVenue: MA Chidamb
  aram Stadium\, Chennai\nKickoff: 03:30 PM IST\nSource: cricapi
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260519T193000
 DTEND;TZID=Asia/Kolkata:20260519T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:6ab84c99-b253-57da-8ea7-3b4a30d586c5
 DESCRIPTION:Rajasthan Royals vs Lucknow Super Giants\nVenue: Sawai Mansing
  h Stadium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Mumbai Indians vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260504T193000
 DTEND;TZID=Asia/Kolkata:20260504T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:cd82c2df-5639-532f-abb1-7f709f14f4ba
 DESCRIPTION:Mumbai Indians vs Lucknow Super Giants\nVenue: Wankhede Stadiu
  m\, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260422T193000
 DTEND;TZID=Asia/Kolkata:20260422T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:28d1dfee-988e-5499-8d13-97b0cb55fa75
 DESCRIPTION:Lucknow Super Giants vs Rajasthan Royals\nVenue: Bharat Ratna 
  Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 07:30 
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Kolkata Knight Riders
 DTSTART;TZID=Asia/Kolkata:20260426T193000
 DTEND;TZID=Asia/Kolkata:20260426T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:d5149178-79b5-51f8-a07c-555fb1db9770
 DESCRIPTION:Lucknow Super Giants vs Kolkata Knight Riders\nVenue: Bharat R
  atna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 0
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260419T193000
 DTEND;TZID=Asia/Kolkata:20260419T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:2b56968f-ddc7-5a12-bae9-187568f489f5
 DESCRIPTION:Punjab Kings vs Lucknow Super Giants\nVenue: Maharaja Yadavind
  ra Singh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKicko
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Royal Challengers Bengaluru
 DTSTART;TZID=Asia/Kolkata:20260507T193000
 DTEND;TZID=Asia/Kolkata:20260507T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:a53c35a7-bc07-5659-aa56-61466a0e9af5
 DESCRIPTION:Lucknow Super Giants vs Royal Challengers Bengaluru\nVenue: Bh
  arat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKick
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260409T193000
 DTEND;TZID=Asia/Kolkata:20260409T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:1cbc2ec9-b893-5a50-8b32-0c899387f3dc
 DESCRIPTION:Kolkata Knight Riders vs Lucknow Super Giants\nVenue: Eden Gar
  dens\, Kolkata\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260523T193000
 DTEND;TZID=Asia/Kolkata:20260523T233000
-DTSTAMP:20260408T043809Z
+DTSTAMP:20260409T043509Z
 UID:eeaa8f29-c083-5f22-b1f2-f8c1143cbd6a
 DESCRIPTION:Lucknow Super Giants vs Punjab Kings\nVenue: Bharat Ratna Shri
   Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 07:30 PM I
