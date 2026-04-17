@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Mumbai Indians
 DTSTART;TZID=Asia/Kolkata:20260514T193000
 DTEND;TZID=Asia/Kolkata:20260514T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:62edc5ec-2f33-51e8-ba86-6c1bdc4774e4
 DESCRIPTION:Punjab Kings vs Mumbai Indians\nVenue: Himachal Pradesh Cricke
  t Association Stadium\, Dharamsala\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260428T193000
 DTEND;TZID=Asia/Kolkata:20260428T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:31cee58a-a4bb-50de-a26d-46a7ce26728c
 DESCRIPTION:Punjab Kings vs Rajasthan Royals\nVenue: Maharaja Yadavindra S
  ingh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKickoff: 
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260503T193000
 DTEND;TZID=Asia/Kolkata:20260503T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:9224a497-d66e-5fdd-b977-10d43e609183
 DESCRIPTION:Gujarat Titans vs Punjab Kings\nVenue: Narendra Modi Stadium\,
   Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260406T053000
 DTEND;TZID=Asia/Kolkata:20260406T093000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:1c1f138a-f6e6-53b7-bd23-70257e725453
 DESCRIPTION:Kolkata Knight Riders vs Punjab Kings\nVenue: Eden Gardens\, K
  olkata\nKickoff: 05:30 AM IST\nSource: cricapi
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Delhi Capitals vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260425T153000
 DTEND;TZID=Asia/Kolkata:20260425T193000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:b8d91f67-9058-51a5-8049-4a1c275cf55f
 DESCRIPTION:Delhi Capitals vs Punjab Kings\nVenue: Arun Jaitley Stadium\, 
  Delhi\nKickoff: 03:30 PM IST\nSource: cricapi
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Mumbai Indians vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260416T193000
 DTEND;TZID=Asia/Kolkata:20260416T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:2b559084-7a4d-5f5c-8d93-99721a988cb7
 DESCRIPTION:Mumbai Indians vs Punjab Kings\nVenue: Wankhede Stadium\, Mumb
  ai\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260419T193000
 DTEND;TZID=Asia/Kolkata:20260419T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:2b56968f-ddc7-5a12-bae9-187568f489f5
 DESCRIPTION:Punjab Kings vs Lucknow Super Giants\nVenue: Maharaja Yadavind
  ra Singh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKicko
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260506T193000
 DTEND;TZID=Asia/Kolkata:20260506T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:7c980b37-5c1d-5808-9cdb-affde827551c
 DESCRIPTION:Sunrisers Hyderabad vs Punjab Kings\nVenue: Rajiv Gandhi Inter
  national Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260411T153000
 DTEND;TZID=Asia/Kolkata:20260411T193000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:be18a9e0-418b-51b7-8a5f-0c7b6c141145
 DESCRIPTION:Punjab Kings vs Sunrisers Hyderabad\nVenue: Maharaja Yadavindr
  a Singh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKickof
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260331T053000
 DTEND;TZID=Asia/Kolkata:20260331T093000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:b5731716-aa53-5e4c-b2cd-3c29fb40c4ec
 DESCRIPTION:Punjab Kings vs Gujarat Titans\nVenue: Maharaja Yadavindra Sin
  gh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKickoff: 05
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Chennai Super Kings vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260403T053000
 DTEND;TZID=Asia/Kolkata:20260403T093000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:7908952a-1279-5c8a-aec5-3401664f8ed3
 DESCRIPTION:Chennai Super Kings vs Punjab Kings\nVenue: MA Chidambaram Sta
  dium\, Chennai\nKickoff: 05:30 AM IST\nSource: cricapi
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260523T193000
 DTEND;TZID=Asia/Kolkata:20260523T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:eeaa8f29-c083-5f22-b1f2-f8c1143cbd6a
 DESCRIPTION:Lucknow Super Giants vs Punjab Kings\nVenue: Bharat Ratna Shri
   Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKickoff: 07:30 PM I
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260511T193000
 DTEND;TZID=Asia/Kolkata:20260511T233000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:ec571f9e-fb8b-501f-9cec-19d270ed64b3
 DESCRIPTION:Punjab Kings vs Delhi Capitals\nVenue: Himachal Pradesh Cricke
  t Association Stadium\, Dharamsala\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Royal Challengers Bengaluru
 DTSTART;TZID=Asia/Kolkata:20260517T153000
 DTEND;TZID=Asia/Kolkata:20260517T193000
-DTSTAMP:20260416T045214Z
+DTSTAMP:20260417T044959Z
 UID:e8041a33-d596-5c1c-a422-e114c485b760
 DESCRIPTION:Punjab Kings vs Royal Challengers Bengaluru\nVenue: Himachal P
  radesh Cricket Association Stadium\, Dharamsala\nKickoff: 03:30 PM IST\nSo
