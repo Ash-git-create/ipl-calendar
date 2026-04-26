@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Kolkata Knight Riders
 DTSTART;TZID=Asia/Kolkata:20260503T153000
 DTEND;TZID=Asia/Kolkata:20260503T193000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:c2f02c7c-644e-5b28-aa08-0b2c20d123ca
 DESCRIPTION:Sunrisers Hyderabad vs Kolkata Knight Riders\nVenue: Rajiv Gan
  dhi International Stadium\, Hyderabad\nKickoff: 03:30 PM IST\nSource: cric
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Rajasthan Royals
 DTSTART;TZID=Asia/Kolkata:20260413T193000
 DTEND;TZID=Asia/Kolkata:20260413T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:6226cbcf-0eab-50fd-a21c-c5b7653fadf3
 DESCRIPTION:Sunrisers Hyderabad vs Rajasthan Royals\nVenue: Rajiv Gandhi I
  nternational Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Mumbai Indians vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260429T193000
 DTEND;TZID=Asia/Kolkata:20260429T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:fd383b02-d5f9-5572-8869-1277f5ac47bd
 DESCRIPTION:Mumbai Indians vs Sunrisers Hyderabad\nVenue: Wankhede Stadium
  \, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Kolkata Knight Riders vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260402T053000
 DTEND;TZID=Asia/Kolkata:20260402T093000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:91200b25-ed0f-5ad8-b7fc-11f14117ff79
 DESCRIPTION:Kolkata Knight Riders vs Sunrisers Hyderabad\nVenue: Eden Gard
  ens\, Kolkata\nKickoff: 05:30 AM IST\nSource: cricapi
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Lucknow Super Giants
 DTSTART;TZID=Asia/Kolkata:20260405T053000
 DTEND;TZID=Asia/Kolkata:20260405T093000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:b0f3a4db-c670-5e0a-8242-7c10747886e7
 DESCRIPTION:Sunrisers Hyderabad vs Lucknow Super Giants\nVenue: Rajiv Gand
  hi International Stadium\, Hyderabad\nKickoff: 05:30 AM IST\nSource: crica
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260421T193000
 DTEND;TZID=Asia/Kolkata:20260421T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:dec64583-2090-5176-b2e5-643ed8a41b61
 DESCRIPTION:Sunrisers Hyderabad vs Delhi Capitals\nVenue: Rajiv Gandhi Int
  ernational Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Chennai Super Kings vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260518T193000
 DTEND;TZID=Asia/Kolkata:20260518T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:8d6011e1-5c96-55ce-a4b8-0b707a58075b
 DESCRIPTION:Chennai Super Kings vs Sunrisers Hyderabad\nVenue: MA Chidamba
  ram Stadium\, Chennai\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Rajasthan Royals vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260425T193000
 DTEND;TZID=Asia/Kolkata:20260425T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:124be2da-3fca-5380-8b35-bc2d4d9b8f0e
 DESCRIPTION:Rajasthan Royals vs Sunrisers Hyderabad\nVenue: Sawai Mansingh
   Stadium\, Jaipur\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260328T053000
 DTEND;TZID=Asia/Kolkata:20260328T093000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:3696a4cb-6336-5bbf-a759-d728b6a29683
 DESCRIPTION:Royal Challengers Bengaluru vs Sunrisers Hyderabad\nVenue: M.C
  hinnaswamy Stadium\, Bengaluru\nKickoff: 05:30 AM IST\nSource: cricapi
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Gujarat Titans vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260512T193000
 DTEND;TZID=Asia/Kolkata:20260512T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:a8b9eb15-2f54-513b-a108-c0a9363b7cfa
 DESCRIPTION:Gujarat Titans vs Sunrisers Hyderabad\nVenue: Narendra Modi St
  adium\, Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Chennai Super Kings
 DTSTART;TZID=Asia/Kolkata:20260418T193000
 DTEND;TZID=Asia/Kolkata:20260418T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:d482cca2-f831-5436-9f1a-9946f145cdaa
 DESCRIPTION:Sunrisers Hyderabad vs Chennai Super Kings\nVenue: Rajiv Gandh
  i International Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricap
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Royal Challengers Bengaluru
 DTSTART;TZID=Asia/Kolkata:20260522T193000
 DTEND;TZID=Asia/Kolkata:20260522T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:2ed62567-47d0-54f9-913d-e39573967480
 DESCRIPTION:Sunrisers Hyderabad vs Royal Challengers Bengaluru\nVenue: Raj
  iv Gandhi International Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Sunrisers Hyderabad vs Punjab Kings
 DTSTART;TZID=Asia/Kolkata:20260506T193000
 DTEND;TZID=Asia/Kolkata:20260506T233000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:7c980b37-5c1d-5808-9cdb-affde827551c
 DESCRIPTION:Sunrisers Hyderabad vs Punjab Kings\nVenue: Rajiv Gandhi Inter
  national Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource: cricapi
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:IPL: Punjab Kings vs Sunrisers Hyderabad
 DTSTART;TZID=Asia/Kolkata:20260411T153000
 DTEND;TZID=Asia/Kolkata:20260411T193000
-DTSTAMP:20260425T043706Z
+DTSTAMP:20260426T051229Z
 UID:be18a9e0-418b-51b7-8a5f-0c7b6c141145
 DESCRIPTION:Punjab Kings vs Sunrisers Hyderabad\nVenue: Maharaja Yadavindr
  a Singh International Cricket Stadium\, Mullanpur\, New Chandigarh\nKickof
