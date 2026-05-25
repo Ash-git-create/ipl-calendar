@@ -8,124 +8,62 @@ X-WR-CALDESC:IPL 2026 match schedule (RCB) - auto-updated daily
 X-WR-CALNAME:IPL 2026: RCB
 X-WR-TIMEZONE:Asia/Kolkata
 BEGIN:VEVENT
-SUMMARY:IPL: Royal Challengers Bengaluru vs Mumbai Indians
-DTSTART;TZID=Asia/Kolkata:20260510T193000
-DTEND;TZID=Asia/Kolkata:20260510T233000
-DTSTAMP:20260524T060217Z
-UID:908ac7e4-954d-5171-a241-2c0145073f51
-DESCRIPTION:Royal Challengers Bengaluru vs Mumbai Indians\nVenue: Shaheed 
- Veer Narayan Singh International Stadium\, Raipur\nKickoff: 07:30 PM IST\n
- Source: cricapi
-LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Delhi Capitals vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260427T193000
-DTEND;TZID=Asia/Kolkata:20260427T233000
-DTSTAMP:20260524T060217Z
-UID:db316da9-df7e-52a6-a4f6-e0a4c2a0aa78
-DESCRIPTION:Delhi Capitals vs Royal Challengers Bengaluru\nVenue: Arun Jai
- tley Stadium\, Delhi\nKickoff: 07:30 PM IST\nSource: cricapi
-LOCATION:Arun Jaitley Stadium\, Delhi
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Royal Challengers Bengaluru vs Kolkata Knight Riders
-DTSTART;TZID=Asia/Kolkata:20260513T193000
-DTEND;TZID=Asia/Kolkata:20260513T233000
-DTSTAMP:20260524T060217Z
-UID:5954cea8-f2f4-5e80-8732-e93a9a7e54bf
-DESCRIPTION:Royal Challengers Bengaluru vs Kolkata Knight Riders\nVenue: S
- haheed Veer Narayan Singh International Stadium\, Raipur\nKickoff: 07:30 P
- M IST\nSource: cricapi
-LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Mumbai Indians vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260412T193000
-DTEND;TZID=Asia/Kolkata:20260412T233000
-DTSTAMP:20260524T060217Z
-UID:ce7fe661-b711-5e79-9aad-69f87b2369db
-DESCRIPTION:Mumbai Indians vs Royal Challengers Bengaluru\nVenue: Wankhede
-  Stadium\, Mumbai\nKickoff: 07:30 PM IST\nSource: cricapi
-LOCATION:Wankhede Stadium\, Mumbai
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Gujarat Titans vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260430T193000
-DTEND;TZID=Asia/Kolkata:20260430T233000
-DTSTAMP:20260524T060217Z
-UID:bfb3161c-ff31-567e-986d-6c069881bfc2
-DESCRIPTION:Gujarat Titans vs Royal Challengers Bengaluru\nVenue: Narendra
-  Modi Stadium\, Ahmedabad\nKickoff: 07:30 PM IST\nSource: cricapi
-LOCATION:Narendra Modi Stadium\, Ahmedabad
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Royal Challengers Bengaluru vs Gujarat Titans
-DTSTART;TZID=Asia/Kolkata:20260424T193000
-DTEND;TZID=Asia/Kolkata:20260424T233000
-DTSTAMP:20260524T060217Z
-UID:6d755059-efdd-547e-a3dd-70298329e954
-DESCRIPTION:Royal Challengers Bengaluru vs Gujarat Titans\nVenue: M.Chinna
- swamy Stadium\, Bengaluru\nKickoff: 07:30 PM IST\nSource: cricapi
-LOCATION:M.Chinnaswamy Stadium\, Bengaluru
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Rajasthan Royals vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260410T193000
-DTEND;TZID=Asia/Kolkata:20260410T233000
-DTSTAMP:20260524T060217Z
-UID:b7c3f225-3243-5013-8d27-2d1fa16acb4a
-DESCRIPTION:Rajasthan Royals vs Royal Challengers Bengaluru\nVenue: Barsap
- ara Cricket Stadium\, Guwahati\nKickoff: 07:30 PM IST\nSource: cricapi
-LOCATION:Barsapara Cricket Stadium\, Guwahati
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Royal Challengers Bengaluru vs Lucknow Super Giants
-DTSTART;TZID=Asia/Kolkata:20260415T193000
-DTEND;TZID=Asia/Kolkata:20260415T233000
-DTSTAMP:20260524T060217Z
-UID:10467c16-111d-5a41-be8e-b9e57438d510
-DESCRIPTION:Royal Challengers Bengaluru vs Lucknow Super Giants\nVenue: M.
- Chinnaswamy Stadium\, Bengaluru\nKickoff: 07:30 PM IST\nSource: cricapi
-LOCATION:M.Chinnaswamy Stadium\, Bengaluru
+SUMMARY:IPL: Sunrisers Hyderabad vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260328T193000
+DTEND;TZID=Asia/Kolkata:20260328T233000
+DTSTAMP:20260525T063616Z
+UID:c3880a66-322e-5918-ad8d-2a262a646786
+DESCRIPTION:Sunrisers Hyderabad vs Royal Challengers Bengaluru\nVenue: Ben
+ galuru\, M.Chinnaswamy Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Bengaluru\, M.Chinnaswamy Stadium
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Chennai Super Kings
-DTSTART;TZID=Asia/Kolkata:20260405T053000
-DTEND;TZID=Asia/Kolkata:20260405T093000
-DTSTAMP:20260524T060217Z
-UID:b668ab52-c905-512b-aca9-5f1f03d99611
-DESCRIPTION:Royal Challengers Bengaluru vs Chennai Super Kings\nVenue: M.C
- hinnaswamy Stadium\, Bengaluru\nKickoff: 05:30 AM IST\nSource: cricapi
-LOCATION:M.Chinnaswamy Stadium\, Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260405T193000
+DTEND;TZID=Asia/Kolkata:20260405T233000
+DTSTAMP:20260525T063616Z
+UID:6487a298-58c0-5985-ad7b-0dd67eb424fd
+DESCRIPTION:Royal Challengers Bengaluru vs Chennai Super Kings\nVenue: Ben
+ galuru\, M.Chinnaswamy Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Bengaluru\, M.Chinnaswamy Stadium
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IPL: Royal Challengers Bengaluru vs Sunrisers Hyderabad
-DTSTART;TZID=Asia/Kolkata:20260328T053000
-DTEND;TZID=Asia/Kolkata:20260328T093000
-DTSTAMP:20260524T060217Z
-UID:3696a4cb-6336-5bbf-a759-d728b6a29683
-DESCRIPTION:Royal Challengers Bengaluru vs Sunrisers Hyderabad\nVenue: M.C
- hinnaswamy Stadium\, Bengaluru\nKickoff: 05:30 AM IST\nSource: cricapi
-LOCATION:M.Chinnaswamy Stadium\, Bengaluru
+SUMMARY:IPL: Royal Challengers Bengaluru vs Rajasthan Royals
+DTSTART;TZID=Asia/Kolkata:20260410T193000
+DTEND;TZID=Asia/Kolkata:20260410T233000
+DTSTAMP:20260525T063616Z
+UID:acaf9900-205f-5162-bea6-ea4427241098
+DESCRIPTION:Royal Challengers Bengaluru vs Rajasthan Royals\nVenue: Guwaha
+ ti\, Barsapara Cricket Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Guwahati\, Barsapara Cricket Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Royal Challengers Bengaluru vs Mumbai Indians
+DTSTART;TZID=Asia/Kolkata:20260412T193000
+DTEND;TZID=Asia/Kolkata:20260412T233000
+DTSTAMP:20260525T063616Z
+UID:728d9ace-212b-580b-bd1d-8fda6a3680e8
+DESCRIPTION:Royal Challengers Bengaluru vs Mumbai Indians\nVenue: Mumbai\,
+  Wankhede Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Mumbai\, Wankhede Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Lucknow Super Giants vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260415T193000
+DTEND;TZID=Asia/Kolkata:20260415T233000
+DTSTAMP:20260525T063616Z
+UID:9194d598-1706-5e9d-aff0-5f60ecdd2c3a
+DESCRIPTION:Lucknow Super Giants vs Royal Challengers Bengaluru\nVenue: Be
+ ngaluru\, M.Chinnaswamy Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Bengaluru\, M.Chinnaswamy Stadium
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -133,24 +71,47 @@ BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Delhi Capitals
 DTSTART;TZID=Asia/Kolkata:20260418T153000
 DTEND;TZID=Asia/Kolkata:20260418T193000
-DTSTAMP:20260524T060217Z
-UID:611a0988-cdb5-5576-9f04-bd7a9873ff44
-DESCRIPTION:Royal Challengers Bengaluru vs Delhi Capitals\nVenue: M.Chinna
- swamy Stadium\, Bengaluru\nKickoff: 03:30 PM IST\nSource: cricapi
-LOCATION:M.Chinnaswamy Stadium\, Bengaluru
+DTSTAMP:20260525T063616Z
+UID:85151db7-acec-5e79-969c-4ae23858b57d
+DESCRIPTION:Royal Challengers Bengaluru vs Delhi Capitals\nVenue: Bengalur
+ u\, M.Chinnaswamy Stadium\nKickoff: 03:30 PM IST\nSource: cricbuzz
+LOCATION:Bengaluru\, M.Chinnaswamy Stadium
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IPL: Sunrisers Hyderabad vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260522T193000
-DTEND;TZID=Asia/Kolkata:20260522T233000
-DTSTAMP:20260524T060217Z
-UID:2ed62567-47d0-54f9-913d-e39573967480
-DESCRIPTION:Sunrisers Hyderabad vs Royal Challengers Bengaluru\nVenue: Raj
- iv Gandhi International Stadium\, Hyderabad\nKickoff: 07:30 PM IST\nSource
- : cricapi
-LOCATION:Rajiv Gandhi International Stadium\, Hyderabad
+SUMMARY:IPL: Gujarat Titans vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260424T193000
+DTEND;TZID=Asia/Kolkata:20260424T233000
+DTSTAMP:20260525T063616Z
+UID:30a4cc71-ddfc-572a-bfed-c6db240889ce
+DESCRIPTION:Gujarat Titans vs Royal Challengers Bengaluru\nVenue: Bengalur
+ u\, M.Chinnaswamy Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Bengaluru\, M.Chinnaswamy Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Delhi Capitals vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260427T193000
+DTEND;TZID=Asia/Kolkata:20260427T233000
+DTSTAMP:20260525T063616Z
+UID:c03110c3-85e6-5bd7-addc-2be81f66fafe
+DESCRIPTION:Delhi Capitals vs Royal Challengers Bengaluru\nVenue: Delhi\, 
+ Arun Jaitley Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Delhi\, Arun Jaitley Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Royal Challengers Bengaluru vs Gujarat Titans
+DTSTART;TZID=Asia/Kolkata:20260430T193000
+DTEND;TZID=Asia/Kolkata:20260430T233000
+DTSTAMP:20260525T063616Z
+UID:9427cd6b-d358-5119-aa41-4fa5519b385f
+DESCRIPTION:Royal Challengers Bengaluru vs Gujarat Titans\nVenue: Ahmedaba
+ d\, Narendra Modi Stadium\nKickoff: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Ahmedabad\, Narendra Modi Stadium
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -158,13 +119,65 @@ BEGIN:VEVENT
 SUMMARY:IPL: Lucknow Super Giants vs Royal Challengers Bengaluru
 DTSTART;TZID=Asia/Kolkata:20260507T193000
 DTEND;TZID=Asia/Kolkata:20260507T233000
-DTSTAMP:20260524T060217Z
-UID:a53c35a7-bc07-5659-aa56-61466a0e9af5
-DESCRIPTION:Lucknow Super Giants vs Royal Challengers Bengaluru\nVenue: Bh
- arat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\nKick
- off: 07:30 PM IST\nSource: cricapi
-LOCATION:Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Lu
- cknow
+DTSTAMP:20260525T063616Z
+UID:16fc7e2e-af67-5b14-97b2-36ef173726b7
+DESCRIPTION:Lucknow Super Giants vs Royal Challengers Bengaluru\nVenue: Lu
+ cknow\, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\nKick
+ off: 07:30 PM IST\nSource: cricbuzz
+LOCATION:Lucknow\, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket St
+ adium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Mumbai Indians vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260510T193000
+DTEND;TZID=Asia/Kolkata:20260510T233000
+DTSTAMP:20260525T063616Z
+UID:ec4aa7f4-1740-5a70-8236-8c75e6b17f5d
+DESCRIPTION:Mumbai Indians vs Royal Challengers Bengaluru\nVenue: Raipur\,
+  Shaheed Veer Narayan Singh International Stadium\nKickoff: 07:30 PM IST\n
+ Source: cricbuzz
+LOCATION:Raipur\, Shaheed Veer Narayan Singh International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Kolkata Knight Riders vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260513T193000
+DTEND;TZID=Asia/Kolkata:20260513T233000
+DTSTAMP:20260525T063616Z
+UID:1b7ba2eb-41af-5146-82e7-535bb748e4ec
+DESCRIPTION:Kolkata Knight Riders vs Royal Challengers Bengaluru\nVenue: R
+ aipur\, Shaheed Veer Narayan Singh International Stadium\nKickoff: 07:30 P
+ M IST\nSource: cricbuzz
+LOCATION:Raipur\, Shaheed Veer Narayan Singh International Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Royal Challengers Bengaluru vs Punjab Kings
+DTSTART;TZID=Asia/Kolkata:20260517T153000
+DTEND;TZID=Asia/Kolkata:20260517T193000
+DTSTAMP:20260525T063616Z
+UID:32659c2d-a58b-54c8-80bf-0cecef945681
+DESCRIPTION:Royal Challengers Bengaluru vs Punjab Kings\nVenue: Dharamsala
+ \, Himachal Pradesh Cricket Association Stadium\nKickoff: 03:30 PM IST\nSo
+ urce: cricbuzz
+LOCATION:Dharamsala\, Himachal Pradesh Cricket Association Stadium
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPL: Sunrisers Hyderabad vs Royal Challengers Bengaluru
+DTSTART;TZID=Asia/Kolkata:20260522T193000
+DTEND;TZID=Asia/Kolkata:20260522T233000
+DTSTAMP:20260525T063616Z
+UID:ab86422a-3cba-5847-a548-979547a5e52d
+DESCRIPTION:Sunrisers Hyderabad vs Royal Challengers Bengaluru\nVenue: Hyd
+ erabad\, Rajiv Gandhi International Stadium\nKickoff: 07:30 PM IST\nSource
+ : cricbuzz
+LOCATION:Hyderabad\, Rajiv Gandhi International Stadium
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -172,25 +185,12 @@ BEGIN:VEVENT
 SUMMARY:IPL: Royal Challengers Bengaluru vs Gujarat Titans
 DTSTART;TZID=Asia/Kolkata:20260526T193000
 DTEND;TZID=Asia/Kolkata:20260526T233000
-DTSTAMP:20260524T060217Z
-UID:114a062a-6543-538b-b81e-c5eddb5bf0e2
-DESCRIPTION:Royal Challengers Bengaluru vs Gujarat Titans\nVenue: Himachal
-  Pradesh Cricket Association Stadium\, Dharamsala\nKickoff: 07:30 PM IST\n
- Source: cricapi
-LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPL: Punjab Kings vs Royal Challengers Bengaluru
-DTSTART;TZID=Asia/Kolkata:20260517T153000
-DTEND;TZID=Asia/Kolkata:20260517T193000
-DTSTAMP:20260524T060217Z
-UID:e8041a33-d596-5c1c-a422-e114c485b760
-DESCRIPTION:Punjab Kings vs Royal Challengers Bengaluru\nVenue: Himachal P
- radesh Cricket Association Stadium\, Dharamsala\nKickoff: 03:30 PM IST\nSo
- urce: cricapi
-LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala
+DTSTAMP:20260525T063616Z
+UID:c1c235e8-08fd-5111-8e0d-b8ab02baa637
+DESCRIPTION:Royal Challengers Bengaluru vs Gujarat Titans\nVenue: Dharamsa
+ la\, Himachal Pradesh Cricket Association Stadium\nKickoff: 07:30 PM IST\n
+ Source: cricbuzz
+LOCATION:Dharamsala\, Himachal Pradesh Cricket Association Stadium
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
